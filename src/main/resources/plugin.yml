@@ -1,0 +1,13 @@
+name: EkorMines
+version: '0.0.1'
+main: me.ekorn.EkorMines.EkorMines
+api-version: '1.21'
+prefix: EkorMines
+authors: [ Ekorn ]
+description: Ekor Mines. A prison mine plugin.
+commands:
+  testmenu:
+    description: Hey
+  ekormine:
+    aliases: [ekm]
+    description: EkorMine
